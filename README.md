@@ -67,7 +67,8 @@ Para ejecutar los tests de las homeworks debes:
 ```
 
 ... donde "_**XX**_" es el número de la homework.
-
+..Ejemplo npm test test/JSII.test.js
+--Estando en la carpeta de los ejercicios
 ---
 
 </br >
